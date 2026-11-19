@@ -96,4 +96,3 @@ Conducted during a summer internship at PESU Research Foundation (July to Septem
 
 **Aniruddha Joshi**
 B.Tech CSE (AI & ML), PES University, Bengaluru
-[GitHub] | [LinkedIn]
